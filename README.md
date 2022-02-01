@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ayon-maji
+- 👀 I’m interested in Microsoft Teams App Developement ...
+- 🌱 I’m currently learning C#, dotNet...
+- 📫 Email: ayon.maji@embee.co.in to reach me ...
+
+<!---
+ayon-maji/ayon-maji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
